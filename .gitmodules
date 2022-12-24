@@ -9,3 +9,7 @@
 	path = lib/aave-v3-core
 	url = https://github.com/aave/aave-v3-core/
 	branch = v1.16.2
+[submodule "lib/joe-core"]
+	path = lib/joe-core
+	url = https://github.com/traderjoe-xyz/joe-core
+	branch = v2.4.6
